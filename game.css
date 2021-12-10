@@ -1,0 +1,29 @@
+body{
+        background-image :url("https://img.freepik.com/free-vector/hand-painted-background-violet-orange-colours_23-2148427578.jpg?size=626&ext=jpg");
+        background-repeat:no-repeat;
+        background-size:cover;
+
+}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
